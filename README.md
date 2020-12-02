@@ -10,6 +10,5 @@ Basic concept behind this project is to measure persons entering and leaving a r
 - Breadboard
 - Jumpers
 
-## Show your support <img alt="GitHub stars" src="https://img.shields.io/github/stars/Runbhumi/Runbhumi?style=social">
 
-Give a ⭐️ if this project helped/inspired you!
+__Give a ⭐️ if this project helped/inspired you!__
