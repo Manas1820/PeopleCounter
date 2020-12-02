@@ -5,10 +5,11 @@ Basic concept behind this project is to measure persons entering and leaving a r
 
 
 <h3>Material Required :</h3>
+
 - Arduino UNO
 - IR Sensors
 - Breadboard
 - Jumpers
 
 
-__Give a ⭐️ if this project helped/inspired you!__
+Give a ⭐️ if this project helped/inspired you!
